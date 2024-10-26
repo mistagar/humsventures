@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/humsventures/static/css/main.ae42ac5f.css",
+    "main.js": "/humsventures/static/js/main.4fcb6aca.js",
+    "index.html": "/humsventures/index.html",
+    "main.ae42ac5f.css.map": "/humsventures/static/css/main.ae42ac5f.css.map",
+    "main.4fcb6aca.js.map": "/humsventures/static/js/main.4fcb6aca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.4fcb6aca.js"
+  ]
+}
