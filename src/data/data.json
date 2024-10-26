@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Explore Destinations - HumsVentures",
+    "paragraph": "Discover destinations | Experience Cultures"
+  },
+  "About": {
+    "paragraph": "Welcome to HumsVentures, where adventure meets excellence! Founded in [Year], we are a passionate team of travel enthusiasts dedicated to providing unforgettable experiences tailored to your unique desires. Our mission is to connect travelers with the beauty and diversity of the world, offering curated journeys that immerse you in local cultures, breathtaking landscapes, and remarkable histories. With a commitment to sustainability and responsible travel, we strive to make each trip not only memorable but also beneficial to the communities we visit. Whether you’re seeking a thrilling adventure, a relaxing getaway, or a cultural exploration, we are here to turn your travel dreams into reality.",
+    "Why": [
+      "Tailored experienc",
+      "Expert Knowledge",
+      "Local connections",
+      "Commitment to excellence"
+    ],
+    "Why2": [
+      "24/7 Support",
+      "Competitive pricing",
+      "Family friendly",
+      "Faith based"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Vacation",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Get Away",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Time-Out",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Excursion",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Relax",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Honey moon",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Hide-out",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Family adventure",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Hide and seek",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-map",
+      "name": "Customized Tour Planning",
+      "text": "Tailor-made itineraries that suit individual preferences, including destination selection, activities, and accommodations."
+    },
+    {
+      "icon": "fa fa-camera",
+      "name": "Adventure Travel Packages",
+      "text": "Exciting adventure tours such as hiking, trekking, and water sports, designed for thrill-seekers looking for unique experiences."
+    },
+    {
+      "icon": "fa fa-cloud-users",
+      "name": "Group Tours",
+      "text": "Organized group excursions to popular destinations, providing guided experiences that foster community and shared adventures."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Cultural Experiences",
+      "text": "Immersive tours that allow travelers to explore local traditions, cuisines, and customs, enhancing their understanding of the destinations."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Airport Transfers and Transportation",
+      "text": "Hassle-free transportation services, including airport pickups, drop-offs, and inter-city transfers, ensuring smooth travel."
+    },
+    {
+      "icon": "fa fa-pie-clock",
+      "name": "Travel Insurance Assistance",
+      "text": "Guidance and options for travel insurance to protect against unforeseen events, providing peace of mind during trips."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"An unforgettable experience! The guides were knowledgeable, and every detail was taken care of. Highly recommend!\"",
+      "name": "Olivia H"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I loved the personalized itinerary! It felt like the trip was designed just for me. Can't wait to travel again!\"",
+      "name": "Ethan J."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The best travel agency I've ever used! They went above and beyond to make our family vacation special.\"",
+      "name": "Mia W."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Everything was perfect, from the accommodations to the activities. I felt safe and supported the entire time.\"",
+      "name": "Noah L."
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Incredible value for money! The experiences were amazing, and the staff was so friendly and helpful.\"",
+      "name": "Sophia A."
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I booked a last-minute trip and was blown away by how smooth everything went. Thank you for a fantastic adventure!\"",
+      "name": "Lucas L."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rev Humphrey Arheghan.",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Shalom Gar",
+      "job": "Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Beatric Arheghan.",
+      "job": "Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Mrs Diane Izevbigie.",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1 Faith Way, GRA. Benin City.",
+    "phone": "+234 801 111 1111",
+    "email": "info@humsventures.com",
+    "facebook": "facebook.com",
+    "twitter": "x.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Easy communication",
+      "text": "Access our team always ready to speak to you."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Information broadcast",
+      "text": "Get all your updates and information at the right time."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Join the community",
+      "text": "Be a part of a thriving community that supports each other."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Create the experience",
+      "text": "Experience the magic of HumsVentures"
+    }
+  ]
+}
